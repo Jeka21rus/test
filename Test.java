@@ -5,13 +5,11 @@ public class Test {
         int i = 1;
 
         {
-            //System.out.println(getI());
             System.out.println(i);
         }
 
         ClassA() {
             i = 2;
-            //System.out.println(getI());
             System.out.println(i);
         }
 
@@ -32,7 +30,6 @@ public class Test {
         }
 
         ClassB() {
-            //System.out.println(getI());
             System.out.println(i);
         }
     }
@@ -49,7 +46,6 @@ public class Test {
         }
 
         ClassC() {
-            //System.out.println(getI());
             System.out.println(i);
         }
     }

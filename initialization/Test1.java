@@ -1,6 +1,6 @@
-package com.test;
+package com.test.initialization;
 
-public class Test {
+public class Test1 {
     private static class ClassA {
         int i = 1;
 

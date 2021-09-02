@@ -1,6 +1,6 @@
 package com.test;
 
-public class Test {
+public class Test2 {
     private static class ClassA {
         int i = 1;
 
